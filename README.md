@@ -30,3 +30,12 @@ Applied the Feature Engineering to the dataset to get better prediction score.
 
 Again created dummies, spliting data into Train and Test and training the model using the new train dataset, saving the predicted value as LogSub2.csv and uploaded to Kaggle which gave the prediction score 0.78.
 test_data_set should be in .csv format
+
+<H3><B>Attachments</B></H3>
+
+1) test.csv : Contains the Passengers data (Train dataset)
+2) train.csv : Contains the Passengers data (Test dataset with no survival details which needs to be predicted)
+3) gender_submission.csv : Predictions generated manually by using Excel formula and uploaded on Kaggle.
+4) LogSub1.csv : Predictions uploaded on Kaggle after applying Logistic Regression model before applying Feature Engineering
+5) LogSub2.csv : Predictions uploaded on Kaggle after applying Logistic Regression model after applying Feature Engineering
+6) TitanicSolution_FeatureEngineering.ipynb : Python code file
