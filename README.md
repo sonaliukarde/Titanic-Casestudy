@@ -1,3 +1,7 @@
+<H2><B><U>Description</B></U></H2>
+
+Applied the Machine Learning algorithm (Logistic Regression) to predict survival rate on the Titanic disaster data
+
 <H2><B><U>Preprocessing and Training </B></U></H2>
 
 Reading the Titanic data
